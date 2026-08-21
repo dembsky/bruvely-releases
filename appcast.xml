@@ -3,6 +3,18 @@
     <channel>
         <title>Bruvely</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Fri, 21 Aug 2026 12:59:51 +0200</pubDate>
+            <sparkle:version>0.2.2</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/dembsky/bruvely-releases/releases/download/downloads/Bruvely-0.2.2.dmg" length="5094857" type="application/octet-stream" sparkle:edSignature="TNgbeAqq8MI2asHSDbLO5eOqjIfMCft8riTpUu96ZvxDmNMYLtxj0WRkzjJQ/G1uSMW3B+XxXOYjAqZDp4G8Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/dembsky/bruvely-releases/releases/download/downloads/Bruvely0.2.2-0.2.1.delta" sparkle:deltaFrom="0.2.1" length="256150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="owPfDm6G5RVz0NsheA1CTLDCvQkHy3bMQ8lIFbzg9S/GBWj75T0gn87IlObtK4trVWR3jf8BEbNbay+C8V/vDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Fri, 21 Aug 2026 11:48:17 +0200</pubDate>
             <sparkle:version>0.2.1</sparkle:version>
