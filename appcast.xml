@@ -3,6 +3,19 @@
     <channel>
         <title>Bruvely</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Mon, 24 Aug 2026 12:30:02 +0200</pubDate>
+            <sparkle:version>0.2.3</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/dembsky/bruvely-releases/releases/download/downloads/Bruvely-0.2.3.dmg" length="5103397" type="application/octet-stream" sparkle:edSignature="HHUYf6IbDj5nou+fd/izMolk2EFxnefXknboRF0nCFHm1UObrw+FvPNZxlPx3n+ro8s1zLAs5O3YdBfLxuExBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/dembsky/bruvely-releases/releases/download/downloads/Bruvely0.2.3-0.2.2.delta" sparkle:deltaFrom="0.2.2" length="326494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+VnJz3kH1crernNAXzxRd8UTzNJCygUsjweGZUdVjYyeYHRkZTDRfzOtGF2jdUf8PG9WV8LZwySFTBWNcPU7CQ=="/>
+                <enclosure url="https://github.com/dembsky/bruvely-releases/releases/download/downloads/Bruvely0.2.3-0.2.1.delta" sparkle:deltaFrom="0.2.1" length="334526" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Gtf1kgZcom4avXay5r13AEeRUNaggPMlKo46xMXyYpkD1Zz74ffRt5P0e0BTyPmP/c1ZNvd7L/MbQ6CUVzZGBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Fri, 21 Aug 2026 12:59:51 +0200</pubDate>
             <sparkle:version>0.2.2</sparkle:version>
